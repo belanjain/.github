@@ -1,5 +1,5 @@
-# Springboot Microservices Project
-This is an prototype of backend server with Microservice architecture made using Springboot and frontend made using react. this project just a template and we can customize what bussines needed, and than all services will run on docker containers for simplify develop, deploy and testing
+# Go Microservices Project
+This is an prototype of backend server with Microservice architecture made using Go (go.mod) and frontend made using react. this project just a template and we can customize what bussines needed, and than all services will run on docker containers for simplify develop, deploy and testing
 
 ## Already implements
 - Implement [**Microservices Architectures**](https://github.com/go-microservices-project/.github/blob/main/profile/page/architectures/readme.md) on Springboot Projects as a backend services
