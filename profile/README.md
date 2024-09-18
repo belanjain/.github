@@ -1,6 +1,7 @@
-# Go Microservices Project
-This is an prototype of backend server with Microservice architecture made using Go (go.mod) and frontend made using react. this project just a template and we can customize what bussines needed, and than all services will run on docker containers for simplify develop, deploy and testing
-
-# ... Under Development ...
-
+# About
+Belanjain is an mini e-comerse project build using :
+- Frontend `react.js`
+- Backend `Java` `Springboot` `Go`
+- Storage `MySql` `Redis`
+- Architectures `Microservices`
 
