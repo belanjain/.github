@@ -1,5 +1,8 @@
 # About
-Belanjain is an mini e-comerse project build using :
+PedalLink: Marketplace sepeda, menghubungkan pembeli, penjual, dan aksesoris dengan mudah.
+
+# Tech
+Project build using :
 - Frontend `react.js`
 - Backend `Java` `Springboot` `Go`
 - Storage `MySql` `Redis`
