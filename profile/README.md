@@ -4,11 +4,8 @@ GowesHub merupakan proyek marketplace kategori jual dan beli sepeda, dibangun me
 ## Arsitektur
 <img src="https://www.plantuml.com/plantuml/svg/ZPAnZjim38PtFGMHuJhv1JmKbnHjqI759HwB6sYPJOIpfKIYBZ2AU_VAaWKBHXfKIqZc9_cHvhDZjEo7NWYKR2nikq7fsMwexydEpiwFmHRQT0IRRzPe9jrju8-0y7xTgArmIdMAwHNGGOZ4Maq8B9e1xHlnfKT9MRLVGk93Y9W4LVMvh41GmnurdWWkrdHUieCdKFgTT60RHI9zaDKXeuWZP57HDiXsrjmS0UeEBjxACxgbamZl4rJhDwzY-_83lYFJ3SVDD55BivTNqr9rIf4uCLxKB9YcBMaZsP9UmrJwI5TFZjq_66Q8tLTeoBuhIU5NUgiumsIte47Fvuoo3NRW-B_Q3bx8EkKOjQIvVX49BNAFuXPoepnbbfIda4MhKrXs4JPJpbA3DPu9regIfX2LuLMf6hwSIRu5STn4tiFzJzsmiNXAaxjavxNkn-RQnp66qLtx53nIfrmCsiaI7tTGSfq0SZWsOY6xz-zZl8Cdd-2kavNHZjYsYlU711ATkoGfgOPOvb6hrRqnClNaN3wux1SNfmshtqeYAwDVa-pd50eSiMliNwRMCyrJ48zQYlA_rIsilc1upwGxF_H_0G00" width="500" >
 
-
 ## Repository
-<img src="https://github.com/user-attachments/assets/c878fd29-3fbe-410d-868a-1620f918722c" width="300">
-
-## Screenshoot Adminsite
+<img src="https://github.com/user-attachments/assets/3656abf1-1c9c-4502-a15e-0c7101012e7d" width="300">
 
 ## Marketplace > Daftar User
 <img src="https://github.com/user-attachments/assets/1f63c2a3-9f61-408b-9144-36475d814813" width="300">
