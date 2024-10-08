@@ -1,12 +1,7 @@
 # About
-PedalLink: Marketplace sepeda, menghubungkan pembeli, penjual, dan aksesoris dengan mudah.
+GowesHub merupakan proyek marketplace kategori jual dan beli sepeda, dibangun menggunakan teknologi react, java & golang dengan arsitektur microservice
 
-## Tech
-Project build using :
-- Frontend `react.js`
-- Backend `Java` `Springboot` `Go`
-
-## Diagram
+## Arsitektur
 <img src="https://www.plantuml.com/plantuml/svg/ZPAnZjim38PtFGMHuJhv1JmKbnHjqI759HwB6sYPJOIpfKIYBZ2AU_VAaWKBHXfKIqZc9_cHvhDZjEo7NWYKR2nikq7fsMwexydEpiwFmHRQT0IRRzPe9jrju8-0y7xTgArmIdMAwHNGGOZ4Maq8B9e1xHlnfKT9MRLVGk93Y9W4LVMvh41GmnurdWWkrdHUieCdKFgTT60RHI9zaDKXeuWZP57HDiXsrjmS0UeEBjxACxgbamZl4rJhDwzY-_83lYFJ3SVDD55BivTNqr9rIf4uCLxKB9YcBMaZsP9UmrJwI5TFZjq_66Q8tLTeoBuhIU5NUgiumsIte47Fvuoo3NRW-B_Q3bx8EkKOjQIvVX49BNAFuXPoepnbbfIda4MhKrXs4JPJpbA3DPu9regIfX2LuLMf6hwSIRu5STn4tiFzJzsmiNXAaxjavxNkn-RQnp66qLtx53nIfrmCsiaI7tTGSfq0SZWsOY6xz-zZl8Cdd-2kavNHZjYsYlU711ATkoGfgOPOvb6hrRqnClNaN3wux1SNfmshtqeYAwDVa-pd50eSiMliNwRMCyrJ48zQYlA_rIsilc1upwGxF_H_0G00" width="500" >
 
 
